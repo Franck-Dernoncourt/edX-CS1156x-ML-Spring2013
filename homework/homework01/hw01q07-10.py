@@ -4,16 +4,20 @@ Fall 2013
 Homework 1
 
 Q7-Q8:
+number_of_training_points = 10 # N
 ('average_number_of_iterations: ', 10.555)
 ('average_generalization_error: ', 0.10651809999999991)
 
 Q9-Q10:
+number_of_training_points = 100 # N
 ('average_number_of_iterations: ', 103.353)
 ('average_generalization_error: ', 0.013376299999999994)
 
 Created on Oct 3, 2013
 
-@author: Franck Dernoncourt franck.dernoncourt@gmail.com
+Run time: less than a minute
+
+@author: Franck Dernoncourt <franck.dernoncourt@gmail.com>
 '''
 
 import random
